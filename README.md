@@ -1,4 +1,4 @@
-![GitHub Banner](banner.png)
+![GitHub Banner](./banner.png)
 
 # 💫 About Me:
 Hi, I'm Khushbu Hameed, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications.
