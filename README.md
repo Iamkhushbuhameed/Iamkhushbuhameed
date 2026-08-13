@@ -1,4 +1,4 @@
-![My GitHub Banner](https://chatgpt.com/s/m_6a7daa7473088191878b5530a5b90a34)
+![GitHub Banner](banner.png)
 
 # 💫 About Me:
 Hi, I'm Khushbu Hameed, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications.
