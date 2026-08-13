@@ -1,29 +1,26 @@
+Hi My name is Khushbu Hameed
+Full Stack Developer f
+Hi, I'm Khushbu Hameed, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications.
+
+I work with React.js, JavaScript, Node.js, Express.js, PostgreSQL, and RESTful APIs. I enjoy developing complete applications from frontend interfaces to backend APIs and database integration.
+
+I have hands-on experience building CRUD-based applications, RESTful APIs, database-driven systems, file uploads, responsive UIs, and API integrations.
+
+I'm continuously learning and improving my skills in Full Stack Web Development, with a focus on writing clean, maintainable, and practical code.
+
+🚀 Currently: Building projects and strengthening my Full Stack Development skills.
+
+🌍  I'm based in Gurugram
+🖥️  See my portfolio at MyPortfolio
+✉️  You can contact me at hameedkhushbu89@gmail.com
+🚀  I'm currently working on Company CRM Software
+🧠  I'm learning Advanced Full Stack Development
+🤝  I'm open to collaborating on Full Stack Web Development Projects
+⚡  I enjoy building real-world applications, learning new technologies, and turning ideas into practical solutions.
+Socials
+Skills
+
+Badges
+My GitHub Stats
 
 
-![github-header-image (1)](https://github.com/khushbuhameed/khushbuhameed/assets/133598792/c488afec-5d99-412e-a302-f9cee5de64b6)
-
-
-
-
-<h1 align="center">Hi 👋, I'm khushbuhameed</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align = "right" alt ="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbuhameed&label=Profile%20views&color=0e75b6&style=flat" alt="khushbuhameed" /> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 📫 How to reach me **khushbuhameed3@gmail.com**
-
-- ⚡ Fun fact **I Am Funny😎😍***
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushbu-hameed-6a0551260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushbu-hameed-6a0551260/" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbuhameed&show_icons=true&locale=en&layout=compact" alt="khushbuhameed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbuhameed&show_icons=true&locale=en" alt="khushbuhameed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbuhameed&" alt="khushbuhameed" /></p>
