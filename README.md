@@ -1,5 +1,15 @@
+
 # 💫 About Me:
-A Company CRM Software using modern full-stack technologies.<br>Full Stack Web Development projects and real-world applications.<br>Improving advanced backend architecture, scalable RESTful APIs, and application performance.<br>Advanced Full Stack Development, React.js, Node.js, Express.js, PostgreSQL, and RESTful API architecture.<br>React.js, JavaScript, Node.js, Express.js, PostgreSQL, RESTful APIs, CRUD applications, and full-stack development.<br>I enjoy turning ideas into practical applications and learning new technologies by building real-world projects.
+
+Hi, I'm **Khushbu Hameed**, a **Full Stack Developer** passionate about building modern and scalable web applications.
+
+I work with **React.js, JavaScript, Node.js, Express.js, PostgreSQL, and RESTful APIs**, with hands-on experience developing CRUD applications, database-driven systems, and responsive user interfaces.
+
+🚀 Currently working on **Company CRM Software** and strengthening my skills in full-stack architecture, backend development, RESTful APIs, database integration, and application performance.
+
+🤝 Open to collaborating on **full-stack and real-world web development projects**.
+
+⚡ I enjoy learning by building practical applications and turning ideas into working solutions.
 
 
 ## 🌐 Socials:
