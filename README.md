@@ -8,6 +8,7 @@ I have hands-on experience building CRUD-based applications, RESTful APIs, datab
 I'm continuously learning and improving my skills in Full Stack Web Development, with a focus on writing clean, maintainable, and practical code.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fullstack.ai.khushbuhameed) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/Khushbu Hameed)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hameedkhushbu89@gmail.com) 
 
 # 💻 Tech Stack:
