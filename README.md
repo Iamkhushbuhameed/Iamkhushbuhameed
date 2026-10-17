@@ -8,6 +8,14 @@
 - ⌨️ Developed a Keyboard Keycode & Event Inspector to help developers inspect keyboard events.
 - 🌱 Continuously improving my problem-solving skills through DSA and System Design.
 - 🎯 Driven by continuous learning, clean code, and building practical software solutions.
+
+  ## 🚀 Open Source Contributions
+
+### DevTasks — Keyboard Keycode & Event Inspector
+
+- Added a tool to inspect keyboard events.
+- Displays Key, Code, KeyCode, Location, and Repeat status.
+- **Pull Request:** [#476 — Merged](https://github.com/shamilahmdt/devtasks/pull/476)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fullstack.ai.khushbuhameed) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hameedkhushbu89@gmail.com) 
