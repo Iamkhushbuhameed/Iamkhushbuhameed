@@ -1,7 +1,8 @@
 # Hi 👋 I'm Khushbu Hameed 
-# 💻 Full Stack Developer. 
-# 📍 Gurugram, India
-
+ 💻 Full Stack Developer. 
+ 
+ 📍 Gurugram, India
+ 
 # 💫 About Me:
 💫 About Me
 - 👩‍💻 Full Stack Developer passionate about building modern, responsive, and scalable web applications.
