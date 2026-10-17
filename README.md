@@ -1,12 +1,13 @@
 ![GitHub Banner](./banner2.png)
 # 💫 About Me:
-Hi, I'm Khushbu Hameed, a passionate Full Stack Developer focused on building modern, responsive, and scalable web applications.
-
-I work with React.js, JavaScript, Node.js, Express.js, PostgreSQL, and RESTful APIs. I enjoy developing complete applications from frontend interfaces to backend APIs and database integration.
-
-I have hands-on experience building CRUD-based applications, RESTful APIs, database-driven systems, file uploads, responsive UIs, and API integrations.
-
-I'm continuously learning and improving my skills in Full Stack Web Development, with a focus on writing clean, maintainable, and practical code.
+💫 About Me
+- 👩‍💻 Full Stack Developer passionate about building modern, responsive, and scalable web applications.
+- ⚛️ Working with React.js, JavaScript, Node.js, Express.js, and PostgreSQL.
+- 🔗 Building RESTful APIs, database-driven applications, and end-to-end web solutions.
+- 🌟 Open Source Contributor: Successfully contributed to "DevTasks — PR #476" (https://github.com/shamilahmdt/devtasks/pull/476).
+- ⌨️ Developed a Keyboard Keycode & Event Inspector to help developers inspect keyboard events.
+- 🌱 Continuously improving my problem-solving skills through DSA and System Design.
+- 🎯 Driven by continuous learning, clean code, and building practical software solutions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fullstack.ai.khushbuhameed) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hameedkhushbu89@gmail.com) 
