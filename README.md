@@ -1,4 +1,4 @@
-![GitHub Banner](./banner2.png)
+
 # 💫 About Me:
 💫 About Me
 - 👩‍💻 Full Stack Developer passionate about building modern, responsive, and scalable web applications.
