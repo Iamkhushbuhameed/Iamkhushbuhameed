@@ -1,5 +1,5 @@
-Hi there 👋 I'm Khushbu Hameed T
-💻 Full Stack Developer 
+# Hi there 👋 I'm Khushbu Hameed T
+# 💻 Full Stack Developer 
 
 📍 Gurugram, India
 
