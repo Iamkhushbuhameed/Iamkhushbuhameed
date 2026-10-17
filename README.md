@@ -1,5 +1,5 @@
 # Hi 👋 I'm Khushbu Hameed 
-- 💻 Full Stack Developer 
+- 💻 Full Stack Developer. 
 -📍 Gurugram, India
 
 # 💫 About Me:
